@@ -6,4 +6,4 @@ then
 kill -9 $pid
 fi
 java -jar aliyun-test-0.0.1-SNAPSHOT.jar &> ./test.log &
-echo "¬Œ÷"
+echo "æˆåŠŸ"
